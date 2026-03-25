@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "snowfall",
+  "base_artist": "Øneheart、reidenshi",
+  "createdAt": "2026-03-25T13:16:21.552349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Snowfall Soon",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/01_Snowfall_Soon_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snowfall Soon (Remastered)",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/02_Snowfall_Soon_(Remastered)_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snowfall",
+      "artist": "The Halo Benders",
+      "has_synced": true,
+      "path": "select/03_Snowfall_The_Halo_Benders.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Snowfall",
+      "artist": "Hearts of Black Science",
+      "has_synced": false,
+      "path": "select/04_Snowfall_Hearts_of_Black_Science.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Snowfall",
+      "artist": "Ingrid Michaelson",
+      "has_synced": false,
+      "path": "select/05_Snowfall_Ingrid_Michaelson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Snowfall",
+      "artist": "Ingrid Michaelson",
+      "has_synced": true,
+      "path": "select/06_Snowfall_Ingrid_Michaelson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snowfall",
+      "artist": "The Manhattan Transfer",
+      "has_synced": false,
+      "path": "select/07_Snowfall_The_Manhattan_Transfer.txt"
+    }
+  ]
+}
